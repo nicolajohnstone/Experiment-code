@@ -1,0 +1,6 @@
+﻿cond,corrAns,Practice.thisRepN,Practice.thisTrialN,Practice.thisN,Practice.thisIndex,key_resp_3.keys,key_resp_3.rt,isi.fr,isi.ms,RT,key_resp.keys,key_resp.rt,id,session,date,expName,psychopyVersion,frameRate,
+,,,,,,space,4.8365240001585335,,,,,,,,2021_Sep_15_1046,SRT,2021.2.3,59.84866666571447,
+x,space,0,0,0,0,,,159,2.65,298.3047500019893,space,2.983047500019893,,,2021_Sep_15_1046,SRT,2021.2.3,59.84866666571447,
+x,space,1,0,1,0,,,114,1.9,220.49119998700917,space,2.2049119998700917,,,2021_Sep_15_1046,SRT,2021.2.3,59.84866666571447,
+x,space,2,0,2,0,,,111,1.85,213.05205000098795,space,2.1305205000098795,,,2021_Sep_15_1046,SRT,2021.2.3,59.84866666571447,
+,,,,,,,,138,2.3,,,,,,,,,,
